@@ -31,7 +31,7 @@
 |---------------------|------------------------------------------------------------------------------|
 | **Name**| DeviceNetworkEvents|
 | **Info**|https://learn.microsoft.com/en-us/defender-xdr/advanced-hunting-devicenetworkevents-table|
-| **Purpose**| Used to detect TOR network activity, specifically firefox.exe making connections over ports to be used by Firefox (443).|
+| **Purpose**| Used to detect Firefox network activity, specifically firefox.exe making connections over ports to be used by Firefox (443).|
 
 ---
 
