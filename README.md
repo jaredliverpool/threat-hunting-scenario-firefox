@@ -3,7 +3,7 @@
 
 
 # Threat Hunt Report: Unauthorized Firefox Usage
-- [Scenario Creation](https://github.com/joshmadakor0/threat-hunting-scenario-tor/blob/main/threat-hunting-scenario-tor-event-creation.md)
+- [Scenario Creation](https://github.com/jaredliverpool/threat-hunting-scenario-firefox/blob/main/threat-hunting-scenario-tor-event-creation.md)
 
 ## Platforms and Languages Leveraged
 - Windows 10 Virtual Machines (Microsoft Azure)
