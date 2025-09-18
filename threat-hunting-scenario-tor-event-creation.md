@@ -2,7 +2,7 @@
 **Unauthorized Firefox Browser Installation and Use**
 
 ## Steps the "Bad Actor" took Create Logs and IoCs:
-1. Download the Firefox browser installer: https://www.torproject.org/download/
+1. Download the Firefox browser installer: https://www.firefox.com/en-US/?redirect_source=mozilla-org
 2. Install it silently: ```"Firefox Setup 143.0.exe"/S```
 3. Opens the Firefox browser from the folder on the desktop
 4. Connect to Firefox and browse a few sites. For example:
